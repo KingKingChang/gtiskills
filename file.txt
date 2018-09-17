@@ -1,2 +1,3 @@
 Git is a distrubuted control system!
 creating a new branch is quick！
+after create a branch 
