@@ -7,3 +7,4 @@ create a new branch is quick and simple
 after create a branch
 create a new branch is quick AND simple
 >>>>>>> feature1
+分支管理策略
