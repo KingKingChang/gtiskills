@@ -1,1 +1,2 @@
-Git is a distrubuted control system! 
+Git is a distrubuted control system!
+creating a new branch is quick！
